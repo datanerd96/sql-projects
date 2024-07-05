@@ -40,7 +40,3 @@ Explore Lyft's ride data using SQL queries to gain insights such as:
 
 Contributions are welcome! If you have suggestions, enhancements, or want to add more SQL queries for deeper analysis, feel free to fork this repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
